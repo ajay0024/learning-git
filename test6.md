@@ -1,2 +1,1 @@
-Beeta
-Alpha
+Alpha Beeta
